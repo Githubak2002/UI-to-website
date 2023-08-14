@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=REM:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+  font-family: 'Maven Pro', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Preahvihear', sans-serif;
+}
+html{
+  background-color: #E0EAF3;
+}
+
+.navshadow{
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.303);
+}
+.flexCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navlinkcss{
+  padding: 6px 16px;
+}
+
+.logofont{
+  font-family: 'REM', sans-serif;
+
+}
+
+.boxshadow{
+  box-shadow: 0px 5px 10px rgba(92, 197, 226, 0.546),2px 8px 20px rgba(57, 129, 237, 0.874);
+}
