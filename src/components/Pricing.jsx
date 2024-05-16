@@ -11,7 +11,7 @@ const Pricing = () => {
       {/* <h2 className='text-xl text-center my-3 font-semibold'>Pricing</h2> */}
 
     <section className=''>
-      <nav className='max-w-[1380px] mx-auto flexCenter'>
+      <nav className='max-w-[1380px] mx-auto flexCenter pt-6 sm:pt-2'>
         <NavLink to='monthly'>
           <button className=' hover:bg-[#FF734F] hover:text-white font-bold w-[86px] border-[#FF734F] border-2 p-2'>Monthly</button>
         </NavLink>

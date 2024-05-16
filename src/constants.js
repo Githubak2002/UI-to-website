@@ -71,7 +71,7 @@ export const pricingCardArr = [
         sh1_item3: "One 30 minute meeting a week",
 
         sub_h2:"DESIGN TEAM",
-        sh2_item1: "One designer working with 4-5 other customers at the same time",
+        sh2_item1: "Designer working with 4-5 customers at the same time",
 
     },
     {
@@ -124,7 +124,7 @@ export const pricingCardArr2 = [
         sh1_item3: "One 30 minute meeting a week",
 
         sub_h2:"DESIGN TEAM",
-        sh2_item1: "One designer working with 4-5 other customers at the same time",
+        sh2_item1: "Designer working with 4-5 customers at the same time",
 
     },
     {
@@ -147,7 +147,7 @@ export const pricingCardArr2 = [
     {
         id:3,
         main_heading: "Turbo",
-        main_heading2: "Great for products that require more design & tight timelines [10% off]",
+        main_heading2: "Great for products that require more design & tight timelines",
         price: "₹6,200",
         interval: "FOR 3 MONTHS",
 
@@ -176,7 +176,7 @@ export const pricingCardArr3 = [
         sh1_item3: "One 30 minute meeting a week",
 
         sub_h2:"DESIGN TEAM",
-        sh2_item1: "One designer working with 4-5 other customers at the same time",
+        sh2_item1: "Designer working with 4-5 other at the same time",
 
     },
     {
@@ -199,7 +199,7 @@ export const pricingCardArr3 = [
     {
         id:3,
         main_heading: "Turbo",
-        main_heading2: "Great for products that require more design & tight timelines [15% off]",
+        main_heading2: "Great for products that require more design & tight timelines",
         price: "₹6,055",
         interval: "PER YEAR",
 
